@@ -1,3 +1,3 @@
 # First-demo
 This is my first Repository.<br>
-Author : Jubaer Malick
+Author : Jubaer Malick (DIU)
